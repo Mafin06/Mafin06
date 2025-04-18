@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Elina 👋
 
+👑 Django
+🎀 Python
+🎨 PHP
+🎃 Web development
 <!--
 **Mafin06/Mafin06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
