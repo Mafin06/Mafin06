@@ -1,7 +1,7 @@
 ## Hi, I'm Elina 👋
 
 👑 Django </br>
-🎀 Python </br>
+🎀 Node.js </br>
 🎨 PHP </br>
 🎃 Web development </br>
 
